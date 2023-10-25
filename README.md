@@ -1,39 +1,24 @@
 # Awesome LeetCode Articles
-## This repository contains articles which are very useful while solving LeetCode problems and during the interview preparation.
+This repository contains articles which are very useful while solving LeetCode problems and during the interview preparation.
 
 ## Patterns
-15 Leetcode articles I wish I'd read sooner.
-
-This would have saved me from solving 1500+ problems:
-
-Backtracking Patterns: https://lnkd.in/g9csxVa4
-
-Sliding Window patterns: https://lnkd.in/gjatQ5pK
-
-Sliding Windows on Strings Pattern: https://lnkd.in/gX8ebtnb
-
-Two Pointers Patterns: https://lnkd.in/gBfWgHYe
-
-Substring Problem Patterns: https://lnkd.in/gdGtE72g
-
-Tree Patterns: https://lnkd.in/gKja_D5H
-
-Tree Iterative Traversal: https://lnkd.in/gGpXjHt5
-
-Dynamic Programming Patterns: https://lnkd.in/gbpRU46g
-
-Binary Search Patterns: https://lnkd.in/gKEm_qUK
-
-Monotonic Stack Patterns: https://lnkd.in/gdYahWVN
-
-Bit Manipulation Patterns: https://lnkd.in/gkxVZTXU
-
-Graph Patterns: https://lnkd.in/gKE6w7Jb
-
-DFS + BFS Patterns (1): https://lnkd.in/gPgpsgaQ
-
-DFS + BFS Patterns (2): https://lnkd.in/gd4ekfQe
-
-14 Coding Interview Patterns: https://lnkd.in/gMZJVkFf
+- [14 Coding Interview Patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+- [Sliding Window patterns](https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template/)
+- [Two Pointers Patterns](https://leetcode.com/discuss/study-guide/1688903/Solved-all-two-pointers-problems-in-100-days)
+- [Substring Problem Patterns](https://leetcode.com/problems/minimum-window-substring/solutions/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems/)
+- [Dynamic Programming Patterns 1](https://lnkd.in/dq4FphRe)
+- [Dynamic Programming Patterns 2](https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns)
+- [Binary Search Patterns](https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
+- [Backtracking Patterns](https://leetcode.com/problems/permutations/solutions/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning)/)
+- [Tree Patterns](https://leetcode.com/discuss/study-guide/937307/Iterative-or-Recursive-or-DFS-and-BFS-Tree-Traversal-or-In-Pre-Post-and-LevelOrder-or-Views)
+  - [Tree Iterative Traversal](https://medium.com/leetcode-patterns/leetcode-pattern-0-iterative-traversals-on-trees-d373568eb0ec)
+  - [Tree Question Pattern](https://leetcode.com/discuss/study-guide/2879240/TREE-QUESTION-PATTERN-2023-oror-TREE-STUDY-GUIDE) 
+- [Graph Patterns](https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions)
+- [Monotonic Stack Patterns](https://leetcode.com/discuss/study-guide/2347639/A-comprehensive-guide-and-template-for-monotonic-stack-based-problems)
+- [Bit Manipulation Patterns](https://leetcode.com/discuss/study-guide/3901862/All-Types-of-Patterns-for-Bits-Manipulations-and-How-to-use-it)
+- [String Question Patterns](https://leetcode.com/discuss/study-guide/2001789/Collections-of-Important-String-questions-Pattern)
+- [DFS + BFS Patterns (1)](https://medium.com/leetcode-patterns/leetcode-pattern-2-dfs-bfs-25-of-the-problems-part-2-a5b269597f52)
+- [DFS + BFS Patterns (2)](https://medium.com/leetcode-patterns/leetcode-pattern-2-dfs-bfs-25-of-the-problems-part-2-a5b269597f52)
 
 
+Your contributions are most welcome!
