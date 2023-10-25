@@ -1,7 +1,7 @@
-##Awesome LeetCode Articles
-#This repository contains articles which are very useful while solving LeetCode problems and during the interview preparation.
+# Awesome LeetCode Articles
+## This repository contains articles which are very useful while solving LeetCode problems and during the interview preparation.
 
-#Patterns
+## Patterns
 14 Coding Interview Patterns
 Sliding Window patterns
 Two Pointers Patterns
