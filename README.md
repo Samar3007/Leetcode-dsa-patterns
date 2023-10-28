@@ -20,5 +20,3 @@ This repository contains articles which are very useful while solving LeetCode p
 - [DFS + BFS Patterns (1)](https://medium.com/leetcode-patterns/leetcode-pattern-2-dfs-bfs-25-of-the-problems-part-2-a5b269597f52)
 - [DFS + BFS Patterns (2)](https://medium.com/leetcode-patterns/leetcode-pattern-2-dfs-bfs-25-of-the-problems-part-2-a5b269597f52)
 
-
-Your contributions are most welcome!
